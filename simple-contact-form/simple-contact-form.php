@@ -8,7 +8,7 @@
  * 
  */
 
-if( !defined('ABSAPATH')){
+if( !defined('ABSPATH')){
     exit();
 }
 
